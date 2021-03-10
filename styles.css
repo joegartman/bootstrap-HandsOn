@@ -1,0 +1,15 @@
+@media (mid-width: 576px) {   
+    img {
+        display: flex;
+        width: 250px;
+        height: auto;
+    }
+}
+body {
+    background-color: #cc9999;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
